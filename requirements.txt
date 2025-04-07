@@ -1,0 +1,9 @@
+tensorflow
+numpy
+pandas
+matplotlib
+nltk
+pillow
+tqdm
+scikit-learn
+jupyter
